@@ -8,7 +8,7 @@
 
 <h2 align="center">About Me</h2>
 
-- 5 years of experience in technology (IT, projects, BI and data analysis)  
+- 6 years of experience in technology (IT, projects, BI and data analysis)  
 - Currently focused on **full stack web development**  
 - Passionate about building functional, secure and scalable solutions  
 - Love exploring **APIs, automation and back-end best practices**  
